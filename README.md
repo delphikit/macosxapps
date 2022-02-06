@@ -21,3 +21,7 @@ Free
 Free
 1. [FileZilla](https://filezilla-project.org/) - FileZilla Client is a fast and reliable cross-platform FTP, FTPS and SFTP client with lots of useful features and an intuitive graphical user interface.
 2. [The Unarchiver](https://theunarchiver.com/) - Open any archive (.zip, .7z, .rar, etc.)
+
+## VM
+Free
+1. [UTM](https://mac.getutm.app/) - UTM is a full featured system emulator and virtual machine host for iOS and macOS. It is based off of QEMU. In short, it allows you to run Windows, Linux, and more on your Mac, iPhone, and iPad. More information at https://getutm.app/ and https://mac.getutm.app/
