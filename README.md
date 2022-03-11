@@ -25,3 +25,7 @@ Free
 ## VM
 Free
 1. [UTM](https://mac.getutm.app/) - UTM is a full featured system emulator and virtual machine host for iOS and macOS. It is based off of QEMU. In short, it allows you to run Windows, Linux, and more on your Mac, iPhone, and iPad. More information at https://getutm.app/ and https://mac.getutm.app/
+
+## Key Mapping
+1. https://www.macinstruct.com/tutorials/how-to-switch-the-control-and-command-keys/
+2. https://damieng.com/blog/2015/04/24/make-home-end-keys-behave-like-windows-on-mac-os-x/
